@@ -5,7 +5,7 @@ void	applyXor(char *data, char key, int length)
 	int	i;
 
 	i = 0;
-	while (i <= length)
+	while (i < length)
 	{
 		data[i] = data[i] ^ key;
 		i++;
