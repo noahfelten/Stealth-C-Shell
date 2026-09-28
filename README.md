@@ -78,14 +78,6 @@ Includes a basic static XOR implementation applied to command-line arguments to 
 
 The project includes a `Makefile` to simplify compilation and cleanup.
 
-| Command       | Description                                                    |
-| ------------- | -------------------------------------------------------------- |
-| `make`        | Compiles the project and builds the executable.                |
-| `make all`    | Compiles the project.                                          |
-| `make clean`  | Removes the generated object files.                            |
-| `make fclean` | Removes the object files and the executable.                   |
-| `make re`     | Performs a full rebuild by running `fclean` followed by `all`. |
-
 ### Available Commands
 
 ```bash
