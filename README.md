@@ -4,7 +4,7 @@
 
 ---
 
-## 📖 About
+## About
 
 **Stealth C-Shell** is an educational C project focused on understanding how a basic reverse shell operates at a low level.
 
@@ -20,7 +20,7 @@ This project was developed as part of my self-study in **offensive security** an
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is intended **strictly for educational purposes**.
 
@@ -32,7 +32,7 @@ Only use it in environments where you have permission to perform security testin
 
 ---
 
-## 🚀 Features
+## Features
 
 ### POSIX Sockets
 
@@ -62,7 +62,7 @@ Includes a basic static XOR implementation applied to command-line arguments to 
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Technology                | Purpose                          |
 | ------------------------- | -------------------------------- |
@@ -74,7 +74,7 @@ Includes a basic static XOR implementation applied to command-line arguments to 
 
 ---
 
-## 🔧 Makefile
+## Makefile
 
 The project includes a `Makefile` to simplify compilation and cleanup.
 
@@ -112,7 +112,7 @@ Clean the project completely and rebuild it from scratch.
 
 ---
 
-## ▶️ Usage
+## Usage
 
 The resulting binary can be executed with an IP address and listening port:
 
@@ -130,7 +130,7 @@ Use this only within an authorized test environment.
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 ### POSIX API
 
@@ -150,7 +150,7 @@ Built a clearer understanding of the relationship between high-level security to
 
 ---
 
-## ⚠️ Known Issues & Future Improvements
+## Known Issues & Future Improvements
 
 ### Memory Safety
 
@@ -166,7 +166,7 @@ This **is not cryptographically secure** and should not be considered real encry
 
 ---
 
-## 📚 Project Goals
+## Project Goals
 
 The main objectives of this project are to:
 
@@ -180,15 +180,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🏫 42 School
-
-This project follows the **42 School approach** of learning through experimentation, implementation, debugging, and understanding the underlying mechanisms rather than relying solely on abstractions.
-
-The goal is not simply to make the program work, but to understand **why it works**.
-
----
-
-## 📌 Status
+## Status
 
 **Educational / Proof of Concept**
 
